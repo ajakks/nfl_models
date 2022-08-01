@@ -1,0 +1,743 @@
+,date,week,time,away_team,home_team,OU,spread
+0,"Thursday, Sep. 8",1,8:20,BUF,LAR,52.5,LAR +1
+1,"Sunday, Sep. 11",1,1:00,NO,ATL,41.5,ATL +5.5
+2,"Sunday, Sep. 11",1,1:00,SF,CHI,42,CHI +6.5
+3,"Sunday, Sep. 11",1,1:00,PIT,CIN,44.5,CIN -6.5
+4,"Sunday, Sep. 11",1,1:00,PHI,DET,46,DET +4.5
+5,"Sunday, Sep. 11",1,1:00,NE,MIA,44.5,MIA -2.5
+6,"Sunday, Sep. 11",1,1:00,BAL,NYJ,45,NYJ +6
+7,"Sunday, Sep. 11",1,1:00,JAC,WAS,44.5,WAS -4
+8,"Sunday, Sep. 11",1,1:00,CLE,CAR,42.5,CAR +1
+9,"Sunday, Sep. 11",1,1:00,IND,HOU,44,HOU +8
+10,"Sunday, Sep. 11",1,4:25,NYG,TEN,43.5,TEN -6.5
+11,"Sunday, Sep. 11",1,4:25,GB,MIN,48.5,MIN +2
+12,"Sunday, Sep. 11",1,4:25,KC,ARI,52.5,ARI +3
+13,"Sunday, Sep. 11",1,4:25,LV,LAC,51.5,LAC -4
+14,"Sunday, Sep. 11",1,8:20,TB,DAL,52,DAL +2.5
+15,"Monday, Sep. 12",1,8:15,DEN,SEA,42.5,SEA +5.5
+0,"Thursday, Sep. 15",2,8:15,LAC,KC,52.5,KC -3
+1,"Sunday, Sep. 18",2,1:00,MIA,BAL,45.5,BAL -4
+2,"Sunday, Sep. 18",2,1:00,NYJ,CLE,"        Off
+","ATS:        Off
+"
+3,"Sunday, Sep. 18",2,1:00,WAS,DET,45.5,DET +1
+4,"Sunday, Sep. 18",2,1:00,IND,JAC,45.5,JAC +4.5
+5,"Sunday, Sep. 18",2,1:00,TB,NO,47,NO +4
+6,"Sunday, Sep. 18",2,1:00,CAR,NYG,42.5,NYG -1
+7,"Sunday, Sep. 18",2,1:00,NE,PIT,43,PIT +1.5
+8,"Sunday, Sep. 18",2,4:05,ATL,LAR,49,LAR -13
+9,"Sunday, Sep. 18",2,4:05,SEA,SF,43.5,SF -7.5
+10,"Sunday, Sep. 18",2,4:25,CIN,DAL,50.5,DAL -2.5
+11,"Sunday, Sep. 18",2,4:25,HOU,DEN,43,DEN -10.5
+12,"Sunday, Sep. 18",2,4:25,ARI,LV,51,LV -2
+13,"Sunday, Sep. 18",2,8:20,CHI,GB,45,GB -8.5
+14,"Monday, Sep. 19",2,7:15,TEN,BUF,51,BUF -7
+15,"Monday, Sep. 19",2,8:30,MIN,PHI,47.5,PHI -2
+0,"Thursday, Sep. 22",3,8:15,PIT,CLE,"        Off
+","ATS:        Off
+"
+1,"Sunday, Sep. 25",3,1:00,NO,CAR,"        Off
+","ATS:        Off
+"
+2,"Sunday, Sep. 25",3,1:00,HOU,CHI,"        Off
+","ATS:        Off
+"
+3,"Sunday, Sep. 25",3,1:00,KC,IND,"        Off
+","ATS:        Off
+"
+4,"Sunday, Sep. 25",3,1:00,BUF,MIA,"        Off
+","ATS:        Off
+"
+5,"Sunday, Sep. 25",3,1:00,DET,MIN,"        Off
+","ATS:        Off
+"
+6,"Sunday, Sep. 25",3,1:00,BAL,NE,"        Off
+","ATS:        Off
+"
+7,"Sunday, Sep. 25",3,1:00,CIN,NYJ,"        Off
+","ATS:        Off
+"
+8,"Sunday, Sep. 25",3,1:00,LV,TEN,"        Off
+","ATS:        Off
+"
+9,"Sunday, Sep. 25",3,1:00,PHI,WAS,"        Off
+","ATS:        Off
+"
+10,"Sunday, Sep. 25",3,4:05,JAC,LAC,"        Off
+","ATS:        Off
+"
+11,"Sunday, Sep. 25",3,4:25,LAR,ARI,"        Off
+","ATS:        Off
+"
+12,"Sunday, Sep. 25",3,4:25,ATL,SEA,"        Off
+","ATS:        Off
+"
+13,"Sunday, Sep. 25",3,4:25,GB,TB,"        Off
+","ATS:        Off
+"
+14,"Sunday, Sep. 25",3,8:20,SF,DEN,"        Off
+","ATS:        Off
+"
+15,"Monday, Sep. 26",3,8:15,DAL,NYG,"        Off
+","ATS:        Off
+"
+0,"Thursday, Sep. 29",4,8:15,MIA,CIN,"        Off
+","ATS:        Off
+"
+1,"Sunday, Oct. 2",4,9:30 AM                    ET,MIN,NO,46.5,NO -1
+2,"Sunday, Oct. 2",4,1:00,CLE,ATL,"        Off
+","ATS:        Off
+"
+3,"Sunday, Oct. 2",4,1:00,BUF,BAL,"        Off
+","ATS:        Off
+"
+4,"Sunday, Oct. 2",4,1:00,WAS,DAL,"        Off
+","ATS:        Off
+"
+5,"Sunday, Oct. 2",4,1:00,SEA,DET,"        Off
+","ATS:        Off
+"
+6,"Sunday, Oct. 2",4,1:00,LAC,HOU,"        Off
+","ATS:        Off
+"
+7,"Sunday, Oct. 2",4,1:00,TEN,IND,"        Off
+","ATS:        Off
+"
+8,"Sunday, Oct. 2",4,1:00,CHI,NYG,"        Off
+","ATS:        Off
+"
+9,"Sunday, Oct. 2",4,1:00,JAC,PHI,"        Off
+","ATS:        Off
+"
+10,"Sunday, Oct. 2",4,1:00,NYJ,PIT,"        Off
+","ATS:        Off
+"
+11,"Sunday, Oct. 2",4,4:05,ARI,CAR,"        Off
+","ATS:        Off
+"
+12,"Sunday, Oct. 2",4,4:25,NE,GB,"        Off
+","ATS:        Off
+"
+13,"Sunday, Oct. 2",4,4:25,DEN,LV,"        Off
+","ATS:        Off
+"
+14,"Sunday, Oct. 2",4,8:20,KC,TB,"        Off
+","ATS:        Off
+"
+15,"Monday, Oct. 3",4,8:15,LAR,SF,"        Off
+","ATS:        Off
+"
+0,"Thursday, Oct. 6",5,8:15,IND,DEN,"        Off
+","ATS:        Off
+"
+1,"Sunday, Oct. 9",5,9:30 AM                    ET,NYG,GB,46.5,GB -6.5
+2,"Sunday, Oct. 9",5,1:00,PIT,BUF,"        Off
+","ATS:        Off
+"
+3,"Sunday, Oct. 9",5,1:00,LAC,CLE,"        Off
+","ATS:        Off
+"
+4,"Sunday, Oct. 9",5,1:00,HOU,JAC,"        Off
+","ATS:        Off
+"
+5,"Sunday, Oct. 9",5,1:00,CHI,MIN,"        Off
+","ATS:        Off
+"
+6,"Sunday, Oct. 9",5,1:00,DET,NE,"        Off
+","ATS:        Off
+"
+7,"Sunday, Oct. 9",5,1:00,SEA,NO,"        Off
+","ATS:        Off
+"
+8,"Sunday, Oct. 9",5,1:00,MIA,NYJ,"        Off
+","ATS:        Off
+"
+9,"Sunday, Oct. 9",5,1:00,ATL,TB,"        Off
+","ATS:        Off
+"
+10,"Sunday, Oct. 9",5,1:00,TEN,WAS,"        Off
+","ATS:        Off
+"
+11,"Sunday, Oct. 9",5,4:05,SF,CAR,"        Off
+","ATS:        Off
+"
+12,"Sunday, Oct. 9",5,4:25,PHI,ARI,"        Off
+","ATS:        Off
+"
+13,"Sunday, Oct. 9",5,4:25,DAL,LAR,"        Off
+","ATS:        Off
+"
+14,"Sunday, Oct. 9",5,8:20,CIN,BAL,"        Off
+","ATS:        Off
+"
+15,"Monday, Oct. 10",5,8:15,LV,KC,"        Off
+","ATS:        Off
+"
+0,"Thursday, Oct. 13",6,8:15,WAS,CHI,"        Off
+","ATS:        Off
+"
+1,"Sunday, Oct. 16",6,1:00,SF,ATL,"        Off
+","ATS:        Off
+"
+2,"Sunday, Oct. 16",6,1:00,NE,CLE,"        Off
+","ATS:        Off
+"
+3,"Sunday, Oct. 16",6,1:00,NYJ,GB,"        Off
+","ATS:        Off
+"
+4,"Sunday, Oct. 16",6,1:00,JAC,IND,"        Off
+","ATS:        Off
+"
+5,"Sunday, Oct. 16",6,1:00,MIN,MIA,"        Off
+","ATS:        Off
+"
+6,"Sunday, Oct. 16",6,1:00,CIN,NO,"        Off
+","ATS:        Off
+"
+7,"Sunday, Oct. 16",6,1:00,BAL,NYG,"        Off
+","ATS:        Off
+"
+8,"Sunday, Oct. 16",6,1:00,TB,PIT,"        Off
+","ATS:        Off
+"
+9,"Sunday, Oct. 16",6,4:05,CAR,LAR,"        Off
+","ATS:        Off
+"
+10,"Sunday, Oct. 16",6,4:05,ARI,SEA,"        Off
+","ATS:        Off
+"
+11,"Sunday, Oct. 16",6,4:25,BUF,KC,"        Off
+","ATS:        Off
+"
+12,"Sunday, Oct. 16",6,8:20,DAL,PHI,"        Off
+","ATS:        Off
+"
+13,"Monday, Oct. 17",6,8:15,DEN,LAC,"        Off
+","ATS:        Off
+"
+0,"Thursday, Oct. 20",7,8:15,NO,ARI,"        Off
+","ATS:        Off
+"
+1,"Sunday, Oct. 23",7,1:00,CLE,BAL,"        Off
+","ATS:        Off
+"
+2,"Sunday, Oct. 23",7,1:00,TB,CAR,"        Off
+","ATS:        Off
+"
+3,"Sunday, Oct. 23",7,1:00,ATL,CIN,"        Off
+","ATS:        Off
+"
+4,"Sunday, Oct. 23",7,1:00,DET,DAL,"        Off
+","ATS:        Off
+"
+5,"Sunday, Oct. 23",7,1:00,NYG,JAC,"        Off
+","ATS:        Off
+"
+6,"Sunday, Oct. 23",7,1:00,IND,TEN,"        Off
+","ATS:        Off
+"
+7,"Sunday, Oct. 23",7,1:00,GB,WAS,"        Off
+","ATS:        Off
+"
+8,"Sunday, Oct. 23",7,4:05,NYJ,DEN,"        Off
+","ATS:        Off
+"
+9,"Sunday, Oct. 23",7,4:05,HOU,LV,"        Off
+","ATS:        Off
+"
+10,"Sunday, Oct. 23",7,4:25,SEA,LAC,"        Off
+","ATS:        Off
+"
+11,"Sunday, Oct. 23",7,4:25,KC,SF,"        Off
+","ATS:        Off
+"
+12,"Sunday, Oct. 23",7,8:20,PIT,MIA,"        Off
+","ATS:        Off
+"
+13,"Monday, Oct. 24",7,8:15,CHI,NE,"        Off
+","ATS:        Off
+"
+0,"Thursday, Oct. 27",8,8:15,BAL,TB,"        Off
+","ATS:        Off
+"
+1,"Sunday, Oct. 30",8,9:30 AM                    ET,DEN,JAC,46,JAC +7
+2,"Sunday, Oct. 30",8,1:00,CAR,ATL,"        Off
+","ATS:        Off
+"
+3,"Sunday, Oct. 30",8,1:00,CHI,DAL,"        Off
+","ATS:        Off
+"
+4,"Sunday, Oct. 30",8,1:00,MIA,DET,"        Off
+","ATS:        Off
+"
+5,"Sunday, Oct. 30",8,1:00,ARI,MIN,"        Off
+","ATS:        Off
+"
+6,"Sunday, Oct. 30",8,1:00,LV,NO,"        Off
+","ATS:        Off
+"
+7,"Sunday, Oct. 30",8,1:00,NE,NYJ,"        Off
+","ATS:        Off
+"
+8,"Sunday, Oct. 30",8,1:00,PIT,PHI,"        Off
+","ATS:        Off
+"
+9,"Sunday, Oct. 30",8,4:05,TEN,HOU,"        Off
+","ATS:        Off
+"
+10,"Sunday, Oct. 30",8,4:25,WAS,IND,"        Off
+","ATS:        Off
+"
+11,"Sunday, Oct. 30",8,4:25,SF,LAR,"        Off
+","ATS:        Off
+"
+12,"Sunday, Oct. 30",8,4:25,NYG,SEA,"        Off
+","ATS:        Off
+"
+13,"Sunday, Oct. 30",8,8:20,GB,BUF,"        Off
+","ATS:        Off
+"
+14,"Monday, Oct. 31",8,8:15,CIN,CLE,"        Off
+","ATS:        Off
+"
+0,"Thursday, Nov. 3",9,8:15,PHI,HOU,"        Off
+","ATS:        Off
+"
+1,"Sunday, Nov. 6",9,1:00,LAC,ATL,"        Off
+","ATS:        Off
+"
+2,"Sunday, Nov. 6",9,1:00,MIA,CHI,"        Off
+","ATS:        Off
+"
+3,"Sunday, Nov. 6",9,1:00,CAR,CIN,"        Off
+","ATS:        Off
+"
+4,"Sunday, Nov. 6",9,1:00,GB,DET,"        Off
+","ATS:        Off
+"
+5,"Sunday, Nov. 6",9,1:00,LV,JAC,"        Off
+","ATS:        Off
+"
+6,"Sunday, Nov. 6",9,1:00,IND,NE,"        Off
+","ATS:        Off
+"
+7,"Sunday, Nov. 6",9,1:00,BUF,NYJ,"        Off
+","ATS:        Off
+"
+8,"Sunday, Nov. 6",9,1:00,MIN,WAS,"        Off
+","ATS:        Off
+"
+9,"Sunday, Nov. 6",9,4:05,SEA,ARI,"        Off
+","ATS:        Off
+"
+10,"Sunday, Nov. 6",9,4:25,LAR,TB,"        Off
+","ATS:        Off
+"
+11,"Sunday, Nov. 6",9,8:20,TEN,KC,"        Off
+","ATS:        Off
+"
+12,"Monday, Nov. 7",9,8:15,BAL,NO,"        Off
+","ATS:        Off
+"
+0,"Thursday, Nov. 10",10,8:15,ATL,CAR,"        Off
+","ATS:        Off
+"
+1,"Sunday, Nov. 13",10,9:30 AM                    ET,SEA,TB,44,TB -10
+2,"Sunday, Nov. 13",10,1:00,MIN,BUF,"        Off
+","ATS:        Off
+"
+3,"Sunday, Nov. 13",10,1:00,DET,CHI,"        Off
+","ATS:        Off
+"
+4,"Sunday, Nov. 13",10,1:00,JAC,KC,"        Off
+","ATS:        Off
+"
+5,"Sunday, Nov. 13",10,1:00,CLE,MIA,"        Off
+","ATS:        Off
+"
+6,"Sunday, Nov. 13",10,1:00,HOU,NYG,"        Off
+","ATS:        Off
+"
+7,"Sunday, Nov. 13",10,1:00,NO,PIT,"        Off
+","ATS:        Off
+"
+8,"Sunday, Nov. 13",10,1:00,DEN,TEN,"        Off
+","ATS:        Off
+"
+9,"Sunday, Nov. 13",10,4:05,IND,LV,"        Off
+","ATS:        Off
+"
+10,"Sunday, Nov. 13",10,4:25,DAL,GB,"        Off
+","ATS:        Off
+"
+11,"Sunday, Nov. 13",10,4:25,ARI,LAR,"        Off
+","ATS:        Off
+"
+12,"Sunday, Nov. 13",10,8:20,LAC,SF,"        Off
+","ATS:        Off
+"
+13,"Monday, Nov. 14",10,8:15,WAS,PHI,"        Off
+","ATS:        Off
+"
+0,"Thursday, Nov. 17",11,8:15,TEN,GB,"        Off
+","ATS:        Off
+"
+1,"Sunday, Nov. 20",11,1:00,CHI,ATL,"        Off
+","ATS:        Off
+"
+2,"Sunday, Nov. 20",11,1:00,CAR,BAL,"        Off
+","ATS:        Off
+"
+3,"Sunday, Nov. 20",11,1:00,CLE,BUF,"        Off
+","ATS:        Off
+"
+4,"Sunday, Nov. 20",11,1:00,WAS,HOU,"        Off
+","ATS:        Off
+"
+5,"Sunday, Nov. 20",11,1:00,PHI,IND,"        Off
+","ATS:        Off
+"
+6,"Sunday, Nov. 20",11,1:00,NYJ,NE,"        Off
+","ATS:        Off
+"
+7,"Sunday, Nov. 20",11,1:00,LAR,NO,"        Off
+","ATS:        Off
+"
+8,"Sunday, Nov. 20",11,1:00,DET,NYG,"        Off
+","ATS:        Off
+"
+9,"Sunday, Nov. 20",11,4:05,LV,DEN,"        Off
+","ATS:        Off
+"
+10,"Sunday, Nov. 20",11,4:25,KC,LAC,"        Off
+","ATS:        Off
+"
+11,"Sunday, Nov. 20",11,4:25,DAL,MIN,"        Off
+","ATS:        Off
+"
+12,"Sunday, Nov. 20",11,8:20,CIN,PIT,"        Off
+","ATS:        Off
+"
+13,"Monday, Nov. 21",11,8:15,SF,ARI,46.5,ARI +1.5
+0,"Thursday, Nov. 24",12,12:30,BUF,DET,"        Off
+","ATS:        Off
+"
+1,"Thursday, Nov. 24",12,4:30,NYG,DAL,"        Off
+","ATS:        Off
+"
+2,"Thursday, Nov. 24",12,8:20,NE,MIN,"        Off
+","ATS:        Off
+"
+3,"Sunday, Nov. 27",12,1:00,DEN,CAR,"        Off
+","ATS:        Off
+"
+4,"Sunday, Nov. 27",12,1:00,TB,CLE,"        Off
+","ATS:        Off
+"
+5,"Sunday, Nov. 27",12,1:00,BAL,JAC,"        Off
+","ATS:        Off
+"
+6,"Sunday, Nov. 27",12,1:00,HOU,MIA,"        Off
+","ATS:        Off
+"
+7,"Sunday, Nov. 27",12,1:00,CHI,NYJ,"        Off
+","ATS:        Off
+"
+8,"Sunday, Nov. 27",12,1:00,CIN,TEN,"        Off
+","ATS:        Off
+"
+9,"Sunday, Nov. 27",12,1:00,ATL,WAS,"        Off
+","ATS:        Off
+"
+10,"Sunday, Nov. 27",12,4:05,LAC,ARI,"        Off
+","ATS:        Off
+"
+11,"Sunday, Nov. 27",12,4:05,LV,SEA,"        Off
+","ATS:        Off
+"
+12,"Sunday, Nov. 27",12,4:25,LAR,KC,"        Off
+","ATS:        Off
+"
+13,"Sunday, Nov. 27",12,4:25,NO,SF,"        Off
+","ATS:        Off
+"
+14,"Sunday, Nov. 27",12,8:20,GB,PHI,"        Off
+","ATS:        Off
+"
+15,"Monday, Nov. 28",12,8:15,PIT,IND,"        Off
+","ATS:        Off
+"
+0,"Thursday, Dec. 1",13,8:15,BUF,NE,"        Off
+","ATS:        Off
+"
+1,"Sunday, Dec. 4",13,1:00,PIT,ATL,"        Off
+","ATS:        Off
+"
+2,"Sunday, Dec. 4",13,1:00,DEN,BAL,"        Off
+","ATS:        Off
+"
+3,"Sunday, Dec. 4",13,1:00,GB,CHI,"        Off
+","ATS:        Off
+"
+4,"Sunday, Dec. 4",13,1:00,JAC,DET,"        Off
+","ATS:        Off
+"
+5,"Sunday, Dec. 4",13,1:00,CLE,HOU,"        Off
+","ATS:        Off
+"
+6,"Sunday, Dec. 4",13,1:00,NYJ,MIN,"        Off
+","ATS:        Off
+"
+7,"Sunday, Dec. 4",13,1:00,WAS,NYG,"        Off
+","ATS:        Off
+"
+8,"Sunday, Dec. 4",13,1:00,TEN,PHI,"        Off
+","ATS:        Off
+"
+9,"Sunday, Dec. 4",13,4:05,SEA,LAR,"        Off
+","ATS:        Off
+"
+10,"Sunday, Dec. 4",13,4:05,MIA,SF,"        Off
+","ATS:        Off
+"
+11,"Sunday, Dec. 4",13,4:25,KC,CIN,"        Off
+","ATS:        Off
+"
+12,"Sunday, Dec. 4",13,4:25,LAC,LV,"        Off
+","ATS:        Off
+"
+13,"Sunday, Dec. 4",13,8:20,IND,DAL,"        Off
+","ATS:        Off
+"
+14,"Monday, Dec. 5",13,8:15,NO,TB,"        Off
+","ATS:        Off
+"
+0,"Thursday, Dec. 8",14,8:15,LV,LAR,"        Off
+","ATS:        Off
+"
+1,"Sunday, Dec. 11",14,1:00,NYJ,BUF,"        Off
+","ATS:        Off
+"
+2,"Sunday, Dec. 11",14,1:00,CLE,CIN,"        Off
+","ATS:        Off
+"
+3,"Sunday, Dec. 11",14,1:00,HOU,DAL,"        Off
+","ATS:        Off
+"
+4,"Sunday, Dec. 11",14,1:00,MIN,DET,"        Off
+","ATS:        Off
+"
+5,"Sunday, Dec. 11",14,1:00,PHI,NYG,"        Off
+","ATS:        Off
+"
+6,"Sunday, Dec. 11",14,1:00,BAL,PIT,"        Off
+","ATS:        Off
+"
+7,"Sunday, Dec. 11",14,1:00,JAC,TEN,"        Off
+","ATS:        Off
+"
+8,"Sunday, Dec. 11",14,4:05,MIA,LAC,"        Off
+","ATS:        Off
+"
+9,"Sunday, Dec. 11",14,4:25,CAR,SEA,"        Off
+","ATS:        Off
+"
+10,"Sunday, Dec. 11",14,4:25,TB,SF,"        Off
+","ATS:        Off
+"
+11,"Sunday, Dec. 11",14,8:20,KC,DEN,"        Off
+","ATS:        Off
+"
+12,"Monday, Dec. 12",14,8:15,NE,ARI,"        Off
+","ATS:        Off
+"
+0,"Thursday, Dec. 15",15,8:15,SF,SEA,"        Off
+","ATS:        Off
+"
+1,"Sunday, Dec. 18",15,TBD,MIA,BUF,"        Off
+","ATS:        Off
+"
+2,"Sunday, Dec. 18",15,TBD,BAL,CLE,"        Off
+","ATS:        Off
+"
+3,"Sunday, Dec. 18",15,TBD,IND,MIN,"        Off
+","ATS:        Off
+"
+4,"Sunday, Dec. 18",15,TBD,ATL,NO,"        Off
+","ATS:        Off
+"
+5,"Sunday, Dec. 18",15,TBD,NYG,WAS,"        Off
+","ATS:        Off
+"
+6,"Sunday, Dec. 18",15,1:00,PIT,CAR,"        Off
+","ATS:        Off
+"
+7,"Sunday, Dec. 18",15,1:00,PHI,CHI,"        Off
+","ATS:        Off
+"
+8,"Sunday, Dec. 18",15,1:00,KC,HOU,"        Off
+","ATS:        Off
+"
+9,"Sunday, Dec. 18",15,1:00,DAL,JAC,"        Off
+","ATS:        Off
+"
+10,"Sunday, Dec. 18",15,1:00,DET,NYJ,"        Off
+","ATS:        Off
+"
+11,"Sunday, Dec. 18",15,4:05,ARI,DEN,"        Off
+","ATS:        Off
+"
+12,"Sunday, Dec. 18",15,4:25,TEN,LAC,"        Off
+","ATS:        Off
+"
+13,"Sunday, Dec. 18",15,4:25,CIN,TB,"        Off
+","ATS:        Off
+"
+14,"Sunday, Dec. 18",15,8:20,NE,LV,"        Off
+","ATS:        Off
+"
+15,"Monday, Dec. 19",15,8:15,LAR,GB,"        Off
+","ATS:        Off
+"
+0,"Thursday, Dec. 22",16,8:15,JAC,NYJ,"        Off
+","ATS:        Off
+"
+1,"Saturday, Dec. 24",16,1:00,ATL,BAL,"        Off
+","ATS:        Off
+"
+2,"Saturday, Dec. 24",16,1:00,DET,CAR,"        Off
+","ATS:        Off
+"
+3,"Saturday, Dec. 24",16,1:00,BUF,CHI,"        Off
+","ATS:        Off
+"
+4,"Saturday, Dec. 24",16,1:00,NO,CLE,"        Off
+","ATS:        Off
+"
+5,"Saturday, Dec. 24",16,1:00,SEA,KC,"        Off
+","ATS:        Off
+"
+6,"Saturday, Dec. 24",16,1:00,NYG,MIN,"        Off
+","ATS:        Off
+"
+7,"Saturday, Dec. 24",16,1:00,CIN,NE,"        Off
+","ATS:        Off
+"
+8,"Saturday, Dec. 24",16,1:00,HOU,TEN,"        Off
+","ATS:        Off
+"
+9,"Saturday, Dec. 24",16,4:05,WAS,SF,"        Off
+","ATS:        Off
+"
+10,"Saturday, Dec. 24",16,4:25,PHI,DAL,"        Off
+","ATS:        Off
+"
+11,"Saturday, Dec. 24",16,8:15,LV,PIT,"        Off
+","ATS:        Off
+"
+12,"Sunday, Dec. 25",16,1:00,GB,MIA,"        Off
+","ATS:        Off
+"
+13,"Sunday, Dec. 25",16,4:30,DEN,LAR,48.5,LAR -3
+14,"Sunday, Dec. 25",16,8:20,TB,ARI,"        Off
+","ATS:        Off
+"
+15,"Monday, Dec. 26",16,8:15,LAC,IND,"        Off
+","ATS:        Off
+"
+0,"Thursday, Dec. 29",17,8:15,DAL,TEN,"        Off
+","ATS:        Off
+"
+1,"Sunday, Jan. 1",17,1:00,ARI,ATL,"        Off
+","ATS:        Off
+"
+2,"Sunday, Jan. 1",17,1:00,PIT,BAL,"        Off
+","ATS:        Off
+"
+3,"Sunday, Jan. 1",17,1:00,CHI,DET,"        Off
+","ATS:        Off
+"
+4,"Sunday, Jan. 1",17,1:00,JAC,HOU,"        Off
+","ATS:        Off
+"
+5,"Sunday, Jan. 1",17,1:00,DEN,KC,"        Off
+","ATS:        Off
+"
+6,"Sunday, Jan. 1",17,1:00,MIA,NE,"        Off
+","ATS:        Off
+"
+7,"Sunday, Jan. 1",17,1:00,IND,NYG,"        Off
+","ATS:        Off
+"
+8,"Sunday, Jan. 1",17,1:00,NO,PHI,"        Off
+","ATS:        Off
+"
+9,"Sunday, Jan. 1",17,1:00,CAR,TB,"        Off
+","ATS:        Off
+"
+10,"Sunday, Jan. 1",17,1:00,CLE,WAS,"        Off
+","ATS:        Off
+"
+11,"Sunday, Jan. 1",17,4:05,SF,LV,"        Off
+","ATS:        Off
+"
+12,"Sunday, Jan. 1",17,4:05,NYJ,SEA,"        Off
+","ATS:        Off
+"
+13,"Sunday, Jan. 1",17,4:25,MIN,GB,"        Off
+","ATS:        Off
+"
+14,"Sunday, Jan. 1",17,8:20,LAR,LAC,"        Off
+","ATS:        Off
+"
+15,"Monday, Jan. 2",17,8:30,BUF,CIN,"        Off
+","ATS:        Off
+"
+0,"Sunday, Jan. 8",18,TBD,TB,ATL,"        Off
+","ATS:        Off
+"
+1,"Sunday, Jan. 8",18,TBD,NE,BUF,"        Off
+","ATS:        Off
+"
+2,"Sunday, Jan. 8",18,TBD,MIN,CHI,"        Off
+","ATS:        Off
+"
+3,"Sunday, Jan. 8",18,TBD,BAL,CIN,"        Off
+","ATS:        Off
+"
+4,"Sunday, Jan. 8",18,TBD,DET,GB,"        Off
+","ATS:        Off
+"
+5,"Sunday, Jan. 8",18,TBD,HOU,IND,"        Off
+","ATS:        Off
+"
+6,"Sunday, Jan. 8",18,TBD,TEN,JAC,"        Off
+","ATS:        Off
+"
+7,"Sunday, Jan. 8",18,TBD,NYJ,MIA,"        Off
+","ATS:        Off
+"
+8,"Sunday, Jan. 8",18,TBD,CAR,NO,"        Off
+","ATS:        Off
+"
+9,"Sunday, Jan. 8",18,TBD,NYG,PHI,"        Off
+","ATS:        Off
+"
+10,"Sunday, Jan. 8",18,TBD,CLE,PIT,"        Off
+","ATS:        Off
+"
+11,"Sunday, Jan. 8",18,TBD,DAL,WAS,"        Off
+","ATS:        Off
+"
+12,"Sunday, Jan. 8",18,TBD,LAC,DEN,"        Off
+","ATS:        Off
+"
+13,"Sunday, Jan. 8",18,TBD,KC,LV,"        Off
+","ATS:        Off
+"
+14,"Sunday, Jan. 8",18,TBD,LAR,SEA,"        Off
+","ATS:        Off
+"
+15,"Sunday, Jan. 8",18,TBD,ARI,SF,"        Off
+","ATS:        Off
+"
