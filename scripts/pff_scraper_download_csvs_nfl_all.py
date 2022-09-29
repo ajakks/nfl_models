@@ -26,57 +26,54 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+
+chrome_options = Options()
+chrome_options.add_argument('--no-sandbox')
+driver = webdriver.Chrome('/home/tomb/nfl_models/chromedriver',chrome_options=chrome_options)
 
 #os.path.abspath(os.getcwd())
 
-cur_week = str(9)
+cur_week = str(4)
 
-## Change your directory ##
-#os.chdir('/media/tom/Samsung 970 Evo NVMe 500gb/PFF/pff_csvs/ncaa_csvs/')
-#chrome_dir = 'C:/Users/booth/Downloads/chromedriver_85\\chromedriver.exe'
-## Create variable that looks up the chrome driver library ##
-
-from selenium.webdriver.chrome.options import Options
-
-binary = "./chromedriver_linux64/chromedriver"
-driver = webdriver.Chrome(binary)
-#os.chdir(cur_dir)
+os.chdir('/home/tomb/nfl_models/scripts/')
 delay = 2
 
 
 ## Create variable that looks up the chrome driver library ##
 
 ### CHANGE ALL DATES, INCLUDING TEXT FILES3BEFORE BEGINNING TO SCRAPE ###
-year_list = ['2021']#,'2007','2008','2009','2010','2011','2012','2013','2014','2015','2016','2017','2018','2019','2020','2021']#,'2009','2010','2011','2012',
-week_list = ['1','2','3','4','5','6','5','6','7','8','9','10','11','12','13','14','15','16','17','18']
+year_list = ['2022']#,'2007','2008','2009','2010','2011','2012','2013','2014','2015','2016','2017','2018','2019','2020','2021']#,'2009','2010','2011','2012',
+week_list = ['1','2','3']#,'5','6','5','6','7','8','9','10','11','12','13','14','15','16','17','18']
 
 
 
 url_list = [
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/passing?position=QB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/passing-pressure?position=QB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/passing-depth?position=QB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/passing-concept?position=QB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/time-in-pocket?position=QB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/passing-allowed-pressure?position=QB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/receiving?position=WR,TE,RB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/receiving-depth?position=WR,TE,RB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/receiving-concept?position=WR,TE,RB&split=slot',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/receiving-scheme?position=WR,TE,RB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/rushing?position=HB,FB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/offense-blocking?position=T,G,C,TE,RB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/offense-pass-blocking?position=T,G,C,TE,RB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/offense-run-blocking?position=T,G,C,TE,RB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/ol-pass-blocking-efficiency?position=T,G,C,TE,RB',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/defense?position=DI,ED,LB,CB,S',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/defense-pass-rush?position=DI,ED,LB,CB,S',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/defense-run?position=DI,ED,LB,CB,S',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/defense-coverage?position=DI,ED,LB,CB,S',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/defense-coverage-scheme?position=DI,ED,LB,CB,S',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/defense-coverage-slot?position=DI,ED,LB,CB,S',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/defense-pass-rush-productivity?position=DI,ED,LB,CB,S',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/kicking?',
-'https://premium.pff.com/nfl/positions/2013/CUSTOM/punting?']
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/passing?position=QB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/passing-pressure?position=QB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/passing-depth?position=QB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/passing-concept?position=QB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/time-in-pocket?position=QB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/passing-allowed-pressure?position=QB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/receiving?position=WR,TE,RB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/receiving-depth?position=WR,TE,RB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/receiving-concept?position=WR,TE,RB&split=slot',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/receiving-scheme?position=WR,TE,RB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/rushing?position=HB,FB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/offense-blocking?position=T,G,C,TE,RB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/offense-pass-blocking?position=T,G,C,TE,RB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/offense-run-blocking?position=T,G,C,TE,RB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/ol-pass-blocking-efficiency?position=T,G,C,TE,RB',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/defense?position=DI,ED,LB,CB,S',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/defense-pass-rush?position=DI,ED,LB,CB,S',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/defense-run?position=DI,ED,LB,CB,S',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/defense-coverage?position=DI,ED,LB,CB,S',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/defense-coverage-scheme?position=DI,ED,LB,CB,S',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/defense-coverage-slot?position=DI,ED,LB,CB,S',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/defense-pass-rush-productivity?position=DI,ED,LB,CB,S',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/kicking?',
+'https://premium.pff.com/nfl/positions/2022/CUSTOM/punting?']
 
 list_of_completed_urls, list_of_failed = [],[]
 
@@ -111,7 +108,7 @@ for urls in url_list:
                 list_of_failed.append(url)
     
             
-            driver.find_element_by_xpath("//*[text()='CSV']").click()
+            driver.find_element("xpath", "//*[text()='CSV']").click()
             print('Retrieved csv from: {}'.format(url))
             
             if 'passing?' in str(url):
@@ -457,8 +454,8 @@ def_summ_conc.to_csv('/media/tom/Windows/Users/booth/Documents/spreads/spreads_2
 
 import re
 
-year = '2021'
-yr = '2021'
+year = '2022'
+yr = '2022'
 
 team_list = ['arizona-cardinals',
 'atlanta-falcons',
@@ -594,5 +591,5 @@ year_team_summ['output'] = year_team_summ['output'].astype(str)
 year_team_summ['output'] = year_team_summ['output'].str.replace(' days','')
 
 
-year_team_summ.to_csv('/home/tom/spreads_2022/historic_data/current_season_data/nfl_week_'+cur_week+'/team_game_summaries_2021_w'+cur_week+'.csv', index=False)
+year_team_summ.to_csv('/home/tomb/nfl_models/current_data/week_'+cur_week+'/team_game_summaries_2021_w'+cur_week+'.csv', index=False)
 

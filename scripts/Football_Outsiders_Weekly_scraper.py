@@ -40,11 +40,16 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
-binary = "/home/tom/Downloads/chromedriver_linux64/chromedriver"
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 
-driver = webdriver.Chrome(binary)
+cur_week=str(4)
 
+chrome_options = Options()
+chrome_options.add_argument('--no-sandbox')
+driver = webdriver.Chrome('/home/tomb/nfl_models/chromedriver',chrome_options=chrome_options)
 
+#os.path.abspath(os.getcwd())
 
 #delay = 5
 import time
@@ -102,7 +107,7 @@ teams =["CAR",
 ]
 
 
-year=['2014','2015','2016','2017','2018','2019','2020','2021']
+year=['2022']
 
 lst=[]
 for yr in year:
@@ -263,4 +268,4 @@ def clean_spreads(df):
 
 df['week'] = df['week'].apply(int)
 df = clean_spreads(df)
-df.to_csv('./fo_weekly_update.csv', index=False)
+df.to_csv('/home/tomb/nfl_models/current_data/week_'+cur_week+'/fo_weekly_update.csv', index=False)
