@@ -33,11 +33,11 @@ from selenium.webdriver.common.by import By
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
-cur_week=str(8)
+cur_week=str(9)
 
 chrome_options = Options()
 chrome_options.add_argument('--no-sandbox')
-driver = webdriver.Chrome('./nfl_models/chromedriver',chrome_options=chrome_options)
+driver = webdriver.Chrome('/home/tomb/nfl_models/chromedriver',chrome_options=chrome_options)
 
 
 delay = 5
@@ -45,7 +45,7 @@ delay = 5
 ## Create variable that looks up the chrome driver library ##
 
 ### CHANGE ALL DATES, INCLUDING TEXT FILES3BEFORE BEGINNING TO SCRAPE ###
-week = 8
+week = 9
 
 
 
@@ -55,7 +55,7 @@ week = 8
 # 		'2022-09-29',
 # 		'2022-10-06',
 # 		'2022-10-13',
-dates = ['2022-10-27']
+dates = ['2022-11-03']
 
 url = "https://www.covers.com/sports/nfl/matchups?selectedDate="
 df = []
@@ -179,7 +179,7 @@ df.insert(0, "covers_team_id", (df['home_team']+'vs'+df['away_team']+'_'+df['yea
 
 
 
-sp = pd.read_csv("/home/tomb/nfl_models/current_data/week_"+cur_week+"/spreadsw8.csv")
+sp = pd.read_csv("/home/tomb/nfl_models/current_data/week_"+cur_week+"/spreadsw"+cur_week+".csv")
 sp = sp[(sp['schedule_season']==2022) & (sp['schedule_week']==int(cur_week))]
         
 sp['schedule_season']=sp['schedule_season'].apply(str)
@@ -246,9 +246,9 @@ sp['fav_team_stronger'] = sp.apply(lambda nData: stronger(nData), axis=1)
 sp.drop(['covers_team_id','trash','week','away_team','home_team','cur_ou','cur_spread','cur_fav_team','fav_team_open_abb','year'], axis=1, inplace=True)
 sp['schedule_season']=sp['schedule_season'].apply(int)
 
-sp_comb = pd.read_csv("/home/tomb/nfl_models/current_data/week_"+cur_week+"/spreadsw8.csv")
-sp_comb = sp_comb[(sp_comb['schedule_season']<=2022) & (sp_comb['schedule_week']<int(cur_week))]
+sp_comb = pd.read_csv("/home/tomb/nfl_models/current_data/week_"+cur_week+"/spreadsw"+cur_week+".csv")
+sp_comb = sp_comb[(sp_comb['schedule_season']<=2022) & (sp_comb['schedule_week'] != int(cur_week))]
         
 sp_comb = pd.concat([sp_comb, sp], axis=0)                  
-sp_comb.to_csv("/home/tomb/nfl_models/current_data/week_"+cur_week+"/spreadsw8.csv", index=False)       
+sp_comb.to_csv("/home/tomb/nfl_models/current_data/week_"+cur_week+"/spreadsw"+cur_week+".csv", index=False)       
         
