@@ -1,6 +1,5 @@
 p_id,unique_team_id,player_team_id,team_id_impute,player,numeric_id,position,team_name,player_game_count,attempts,avoided_tackles,breakaway_attempts,breakaway_percent,breakaway_yards,declined_penalties,designed_yards,drops,elu_recv_mtf,elu_rush_mtf,elu_yco,elusive_rating,explosive,first_downs,franchise_id,fumbles,gap_attempts,grades_hands_fumble,grades_offense,grades_offense_penalty,grades_pass,grades_pass_block,grades_pass_route,grades_run,grades_run_block,longest,penalties,rec_yards,receptions,routes,run_plays,scramble_yards,scrambles,targets,total_touches,touchdowns,yards,yards_after_contact,yco_attempt,ypa,yprr,zone_attempts,week,year,plyr_number
 ezekielelliott_dal_2022_9,dal_2022_9,ezekielelliott_dal_2022,dal_2022,ezekielelliott,10638,hb,dal,1,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
-chubahubbard_car_2022_9,car_2022_9,chubahubbard_car_2022,car_2022,chubahubbard,57373,hb,car,1,9,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 austinekeler_lac_2022_9,lac_2022_9,austinekeler_lac_2022,lac_2022,austinekeler,12164,hb,lac,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 isiahpacheco_kc_2022_9,kc_2022_9,isiahpacheco_kc_2022,kc_2022,isiahpacheco,83747,hb,kc,1,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 keaontayingram_ari_2022_9,ari_2022_9,keaontayingram_ari_2022,ari_2022,keaontayingram,77761,hb,ari,1,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
@@ -34,7 +33,6 @@ patrickricard_bal_2022_9,bal_2022_9,patrickricard_bal_2022,bal_2022,patrickricar
 montrellwashington_den_2022_9,den_2022_9,montrellwashington_den_2022,den_2022,montrellwashington,64310,wr,den,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 brockpurdy_sf_2022_9,sf_2022_9,brockpurdy_sf_2022,sf_2022,brockpurdy,77672,qb,sf,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 zamirwhite_lv_2022_9,lv_2022_9,zamirwhite_lv_2022,lv_2022,zamirwhite,83665,hb,lv,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
-mattryan_ind_2022_9,ind_2022_9,mattryan_ind_2022,ind_2022,mattryan,4317,qb,ind,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 isaiahspiller_lac_2022_9,lac_2022_9,isaiahspiller_lac_2022,lac_2022,isaiahspiller,99146,hb,lac,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 chrisgodwin_tb_2022_9,tb_2022_9,chrisgodwin_tb_2022,tb_2022,chrisgodwin,11839,wr,tb,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 derrickhenry_ten_2022_9,ten_2022_9,derrickhenry_ten_2022,ten_2022,derrickhenry,10679,hb,ten,1,32,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
@@ -50,7 +48,6 @@ kennethwalkeriii_sea_2022_9,sea_2022_9,kennethwalkeriii_sea_2022,sea_2022,kennet
 rhamondrestevenson_ne_2022_9,ne_2022_9,rhamondrestevenson_ne_2022,ne_2022,rhamondrestevenson,98689,hb,ne,1,17,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 calebhuntley_atl_2022_9,atl_2022_9,calebhuntley_atl_2022,atl_2022,calebhuntley,57156,hb,atl,1,16,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 khalilherbert_chi_2022_9,chi_2022_9,khalilherbert_chi_2022,chi_2022,khalilherbert,41668,hb,chi,1,16,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
-jonathantaylor_ind_2022_9,ind_2022_9,jonathantaylor_ind_2022,ind_2022,jonathantaylor,57488,hb,ind,1,16,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 dameonpierce_hou_2022_9,hou_2022_9,dameonpierce_hou_2022,hou_2022,dameonpierce,83659,hb,hou,1,15,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 davidmontgomery_chi_2022_9,chi_2022_9,davidmontgomery_chi_2022,chi_2022,davidmontgomery,45719,hb,chi,1,15,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 tonypollard_dal_2022_9,dal_2022_9,tonypollard_dal_2022,dal_2022,tonypollard,27126,hb,dal,1,14,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
@@ -59,7 +56,6 @@ raheemmostert_mia_2022_9,mia_2022_9,raheemmostert_mia_2022,mia_2022,raheemmoster
 tylerallgeier_atl_2022_9,atl_2022_9,tylerallgeier_atl_2022,atl_2022,tylerallgeier,83639,hb,atl,1,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 lataviusmurray_den_2022_9,den_2022_9,lataviusmurray_den_2022,den_2022,lataviusmurray,7962,hb,den,1,14,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 kareemhunt_cle_2022_9,cle_2022_9,kareemhunt_cle_2022,cle_2022,kareemhunt,11841,hb,cle,1,11,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
-gusedwards_bal_2022_9,bal_2022_9,gusedwards_bal_2022,bal_2022,gusedwards,46027,hb,bal,1,11,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 damienharris_ne_2022_9,ne_2022_9,damienharris_ne_2022,ne_2022,damienharris,35134,hb,ne,1,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 ajdillon_gb_2022_9,gb_2022_9,ajdillon_gb_2022,gb_2022,ajdillon,57165,hb,gb,1,10,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 jamaalwilliams_det_2022_9,det_2022_9,jamaalwilliams_det_2022,det_2022,jamaalwilliams,11889,hb,det,1,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
@@ -94,7 +90,6 @@ marcusmariota_atl_2022_9,atl_2022_9,marcusmariota_atl_2022,atl_2022,marcusmariot
 malcolmbrown_lar_2022_9,lar_2022_9,malcolmbrown_lar_2022,lar_2022,malcolmbrown,9902,hb,lar,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 genosmith_sea_2022_9,sea_2022_9,genosmith_sea_2022,sea_2022,genosmith,7820,qb,sea,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 dakprescott_dal_2022_9,dal_2022_9,dakprescott_dal_2022,dal_2022,dakprescott,10769,qb,dal,1,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
-darrelwilliams_ari_2022_9,ari_2022_9,darrelwilliams_ari_2022,ari_2022,darrelwilliams,13014,hb,ari,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 jamesrobinson_nyj_2022_9,nyj_2022_9,jamesrobinson_nyj_2022,nyj_2022,jamesrobinson,22425,hb,nyj,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 alexandermattison_min_2022_9,min_2022_9,alexandermattison_min_2022,min_2022,alexandermattison,45817,hb,min,1,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 nyheimhines_ind_2022_9,ind_2022_9,nyheimhines_ind_2022,ind_2022,nyheimhines,48103,hb,ind,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
@@ -124,7 +119,6 @@ mattbreida_nyg_2022_9,nyg_2022_9,mattbreida_nyg_2022,nyg_2022,mattbreida,12271,h
 tyjohnson_nyj_2022_9,nyj_2022_9,tyjohnson_nyj_2022,nyj_2022,tyjohnson,45769,hb,nyj,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 trestanebner_chi_2022_9,chi_2022_9,trestanebner_chi_2022,chi_2022,trestanebner,57159,hb,chi,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 cooperkupp_lar_2022_9,lar_2022_9,cooperkupp_lar_2022,lar_2022,cooperkupp,11824,wr,lar,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
-jdmckissic_was_2022_9,was_2022_9,jdmckissic_was_2022,was_2022,jdmckissic,11047,hb,was,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 raheemblackshear_car_2022_9,car_2022_9,raheemblackshear_car_2022,car_2022,raheemblackshear,57385,hb,car,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 matthewstafford_lar_2022_9,lar_2022_9,matthewstafford_lar_2022,lar_2022,matthewstafford,4924,qb,lar,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
 rondalemoore_ari_2022_9,ari_2022_9,rondalemoore_ari_2022,ari_2022,rondalemoore,62890,wr,ari,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2022,9
