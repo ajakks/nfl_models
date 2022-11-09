@@ -686,37 +686,37 @@ for idx, val in enumerate(pipelines):
         best_pipe = val
         best_clf = idx
         
-from logitboost import LogitBoost
+# from logitboost import LogitBoost
 
   
-lboost = LogitBoost(n_estimators=500, random_state=0, bootstrap=True, learning_rate=.5)
-lboost.fit(X_train, y_train)
+# lboost = LogitBoost(n_estimators=500, random_state=0, bootstrap=True, learning_rate=.5)
+# lboost.fit(X_train, y_train)
         
-y_pred_train = lboost.predict(X_train)
-y_pred_test = lboost.predict(X_test)
+# y_pred_train = lboost.predict(X_train)
+# y_pred_test = lboost.predict(X_test)
 
-accuracy_train = accuracy_score(y_train, y_pred_train)
-accuracy_test = accuracy_score(y_test, y_pred_test)
+# accuracy_train = accuracy_score(y_train, y_pred_train)
+# accuracy_test = accuracy_score(y_test, y_pred_test)
 
-report_train = classification_report(y_train, y_pred_train)
-report_test = classification_report(y_test, y_pred_test)
-print('Training\n%s' % report_train)
-print('Testing\n%s' % report_test)
+# report_train = classification_report(y_train, y_pred_train)
+# report_test = classification_report(y_test, y_pred_test)
+# print('Training\n%s' % report_train)
+# print('Testing\n%s' % report_test)
 
 
-from pyglmnet import GLM, simulate_glm
-# create an instance of the GLM class
-glm = GLM(distr='poisson', score_metric='pseudo_R2', reg_lambda=0.01)
+# from pyglmnet import GLM, simulate_glm
+# # create an instance of the GLM class
+# glm = GLM(distr='poisson', score_metric='pseudo_R2', reg_lambda=0.01)
 
-# fit the model on the training data
-glm.fit(np.array(X_train), np.array(y_train))
+# # fit the model on the training data
+# glm.fit(np.array(X_train), np.array(y_train))
 
-# predict using fitted model on the test data
-yhat = glm.predict(np.array(X_test))
+# # predict using fitted model on the test data
+# yhat = glm.predict(np.array(X_test))
 
-# score the model on test data
-pseudo_R2 = glm.score(np.array(X_test), np.array(y_test))
-print('Pseudo R^2 is %.3f' % pseudo_R2)
+# # score the model on test data
+# pseudo_R2 = glm.score(np.array(X_test), np.array(y_test))
+# print('Pseudo R^2 is %.3f' % pseudo_R2)
 
 
 
